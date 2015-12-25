@@ -9,11 +9,10 @@
 *.iws
 *.class
 
-# NetBeans
-.build/
-.nbproject/
-*.xml
-*.mf
+nbproject
+build/
+.xml
+
 
 # Mac
 .DS_Store
